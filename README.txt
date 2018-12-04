@@ -52,7 +52,7 @@ Getting Started:
 
 2.  Type the command "make" (without quotes)
 
-3.  Type "smallsh" (without quotes) to launch the program.
+3.  Type "./smallsh" (without quotes) to launch the program.
 
 4.  When finished, type "make clean" (without quotes) to remove
 	all object and executable files associated with smallsh.
