@@ -60,7 +60,7 @@
 //for background processing are ignored).
 int bgIGN = -1;
 
-//The flag indicates a toggling occurred, which is needed to re-prompt
+//This flag indicates a toggling occurred, which is needed to re-prompt
 //the user if the signal was received while the user was at the prompt
 //(i.e. the signal was not received during the execution of a foreground
 //process).
